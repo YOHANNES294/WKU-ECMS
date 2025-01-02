@@ -1,5 +1,4 @@
-# **Wolkite University**  
-## Clearance Management System - Employee  
+# **Wolkite University**  ## Clearance Management System For Employee  
 
 Welcome to the **Clearance Management System** designed specifically for Wolkite University employees. This system streamlines the clearance process, ensuring a seamless and efficient experience for employees leaving or transitioning within the university. Built with modern technologies, this project features a **Next.js frontend**, a **Node.js backend**, and a **MongoDB database**, all wrapped in a clean and responsive design using **HTML** and **CSS**.  
 
